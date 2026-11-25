@@ -1,0 +1,3 @@
+# Copy this line into local.properties (Android Studio creates that file and adds sdk.dir for you).
+# local.properties is ignored by git, so the key never reaches GitHub.
+MAPS_API_KEY=PASTE_YOUR_GOOGLE_MAPS_KEY_HERE

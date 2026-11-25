@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The bottom tabs. Each id MUST match a fragment id in navigation/nav_graph.xml. -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/placesFragment"
+        android:icon="@drawable/ic_place"
+        android:title="@string/tab_places" />
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@drawable/ic_map"
+        android:title="@string/tab_map" />
+    <item
+        android:id="@+id/weatherFragment"
+        android:icon="@drawable/ic_cloud"
+        android:title="@string/tab_weather" />
+    <item
+        android:id="@+id/broadcastsFragment"
+        android:icon="@drawable/ic_broadcast"
+        android:title="@string/tab_broadcasts" />
+</menu>

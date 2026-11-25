@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Campus Explorer</string>
+
+    <!-- Bottom tabs -->
+    <string name="tab_places">Places</string>
+    <string name="tab_map">Map</string>
+    <string name="tab_weather">Weather</string>
+    <string name="tab_broadcasts">Broadcasts</string>
+
+    <!-- Places -->
+    <string name="add_place">Add place</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="place_name">Name</string>
+    <string name="place_description">Description (optional)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="invalid_place">Not saved: enter a name and valid coordinates.</string>
+    <string name="no_places">No places in the database yet.</string>
+    <string name="load_samples">Load sample places</string>
+    <string name="delete_place_title">Delete %1$s?</string>
+    <string name="delete_place_message">This removes it from Firebase for every device.</string>
+
+    <!-- Map -->
+    <string name="map_hint">Long-press the map to add a place</string>
+
+    <!-- Weather / internet -->
+    <string name="online">Online</string>
+    <string name="offline">Offline: no internet connection</string>
+    <string name="weather_location">Nairobi, right now</string>
+    <string name="current_temp">%1$d°C</string>
+    <string name="current_wind">Wind %1$d km/h</string>
+    <string name="forecast_title">7-day forecast (pull down to refresh)</string>
+
+    <!-- Broadcasts -->
+    <string name="battery_level">Battery: %1$d%% (%2$s)</string>
+    <string name="battery_unknown">Battery: unknown</string>
+    <string name="charging">charging</string>
+    <string name="not_charging">not charging</string>
+    <string name="boot_never">Last boot broadcast: none yet. Restart the device to test BootReceiver.</string>
+    <string name="boot_last">Last boot broadcast: %1$s</string>
+    <string name="broadcast_message_hint">Message to broadcast</string>
+    <string name="default_broadcast_message">Hello from Campus Explorer</string>
+    <string name="send_broadcast">Send</string>
+    <string name="received_broadcasts">Received broadcasts</string>
+    <string name="clear">Clear</string>
+    <string name="no_broadcasts">Nothing received yet. Toggle airplane mode, plug in the charger, or send a custom broadcast.</string>
+</resources>

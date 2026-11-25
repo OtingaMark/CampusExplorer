@@ -1,0 +1,7 @@
+<resources>
+    <color name="brand_blue">#1F4E8C</color>
+    <color name="brand_gold">#C9A227</color>
+    <color name="white">#FFFFFF</color>
+    <color name="status_online">#2E7D32</color>
+    <color name="status_offline">#C62828</color>
+</resources>

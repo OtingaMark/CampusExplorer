@@ -1,0 +1,7 @@
+<resources>
+    <!-- NoActionBar because MainActivity supplies its own MaterialToolbar. -->
+    <style name="Theme.CampusExplorer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_blue</item>
+        <item name="colorSecondary">@color/brand_gold</item>
+    </style>
+</resources>

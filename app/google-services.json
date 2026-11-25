@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362172777110",
+    "project_id": "campusexplorer-3dd86",
+    "storage_bucket": "campusexplorer-3dd86.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362172777110:android:bddeeceee81fb9bc1578b7",
+        "android_client_info": {
+          "package_name": "ke.ac.strathmore.campusexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2AqYuoLHKz5hfrbSuzcDhAIBzUXhb8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
